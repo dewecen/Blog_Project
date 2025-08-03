@@ -1,0 +1,42 @@
+from {
+    background-color: #d9fa7d ;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin: auto;
+    max width: 500px;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #f3ffd4 ;
+    border-radius: 5px;
+    margin-buttom: 10px;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #3cabfa ;
+    color: black;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+buttons{
+    text-align: center;
+    margin-right: 50px;
+}
+
+.btn{
+    color: gray;
+    text-decoration: none;
+    margin-right; 15px;
+}
+
+.post{
+    max_width: 800px;
+    margin: center;
+}

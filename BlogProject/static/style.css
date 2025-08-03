@@ -1,0 +1,66 @@
+body {
+   font-family: 'Georgia', serif;
+   background-color: #c7d1d6; /* бэк гроунд */
+   color: #6e6e6e;
+   line-height: 1.6;
+   margin: 0;
+   text-align: center;
+}
+
+
+.blog {
+   margin: auto;
+   max-width: 800px;
+}
+
+
+
+
+h1 {
+   font-size: 50px;
+   font-weight: 300;
+   margin: 0 0 30px 0;
+   color: #707070;  /* заголовок поста */
+   text-align: left;
+}
+
+
+
+
+.card {
+   padding: 20px;
+   margin-bottom: 30px;
+   background-color: #fafafa; /* окно поста */
+   text-align: left;
+}
+
+
+a {
+   text-decoration: underline;
+   color: #74bae3; /* заголовок поста на главной стр */
+}
+
+
+.author{
+    color: #66b2de; /* ник автора */
+    text-align: right;
+}
+.message
+{
+    color:63de16; /* оповещения */
+}
+
+
+.btn {
+    color: #6c7275; /* Цвет текста кнопок вверху*/
+    text-decoration: none; /* Убираем подчеркивание текста */
+    margin-right: 15px; /* Отступ между кнопками */
+}
+
+
+.post{
+    max-width: 800px;
+    margin: auto;
+    text-align: left;
+    color: #2e4e73; /* цвет текста поста */
+}

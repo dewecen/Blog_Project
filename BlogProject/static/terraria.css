@@ -1,0 +1,35 @@
+body {
+   font-family: 'Courier New', monospace;
+   background-color: #9e8d80;
+   color: #dbffc4;
+   line-height: 1.6;
+   text-align: center;
+}
+
+
+.blog {
+   margin: auto;
+   max-width: 800px;
+}
+
+
+h1 {
+   font-size: 50px;
+   font-weight: 300;
+   color: #bfab9d;
+   text-align: center;
+}
+
+
+.card {
+   padding: 20px;
+   margin-bottom: 30px;
+   background-color: #81a665;
+   text-align: center;
+}
+
+
+a {
+ text-decoration: underline;
+ color: #39522e;
+}

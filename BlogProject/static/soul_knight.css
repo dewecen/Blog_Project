@@ -1,0 +1,41 @@
+body {
+   font-family: 'Roboto', sans-serif;
+   background-color: #e8e8e8;
+   color: #000;
+   line-height: 1.6;
+   text-align: center;
+}
+
+
+.blog{
+   margin: auto;
+   max-width: 800px;
+
+}
+
+
+h1 {
+   font-size: 50px;
+   font-weight: 300;
+   margin: 0;
+   color: #c42121;
+   text-align: center;
+
+}
+
+
+.card {
+   border: none;
+   padding: 20px;
+   margin-bottom: 30px;
+   background-color: #fff;
+   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+   border-radius: 10px;
+
+}
+
+
+a{
+   text-decoration: underline;
+   color: #39968c;
+}
