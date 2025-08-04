@@ -15,3 +15,4 @@
 *Установите зависимости*
 *запустите сервер*
  
+<img width="1465" height="467" alt="Снимок экрана 2025-08-04 175138" src="https://github.com/user-attachments/assets/81d47b0b-15f4-4745-8444-81fed8e38205" />
